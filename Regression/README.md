@@ -12,7 +12,7 @@ In order to understand regression analysis fully, it’s essential to comprehend
 ## What are the regression projects included in this repositry?
 
 ### 1.Simple Linear Regression 
-	PROJECT NAME   : "SIMPLE LINEAR REGRESSION MODEL TO PREDICT AUTO INSURANCE PAYMENYTS"
+	PROJECT NAME   : "SIMPLE LINEAR REGRESSION MODEL TO PREDICT AUTO INSURANCE PAYMENTS"
     DATASET NAME   : "AUTO INSURANCE OF SWEDEN"  
     DATASET SOURCE : "http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets"
 ### 2.Multiple Linear Regression 
