@@ -51,7 +51,7 @@ Before we jump right into programming, we should lay out a brief guide to keep u
     8.Compare predictions to the known test set targets and calculate performance metrics
     9.If performance is not satisfactory, adjust the model, acquire more data, or try a different modeling technique
     10.Interpret model and report results visually and numerically
-    ////THESE ARE THE STPS I FOLLOW
+    ////THESE ARE THE STEPS I FOLLOW
     
 
 
