@@ -37,7 +37,7 @@ In order to understand regression analysis fully, it’s essential to comprehend
     DATASET SOURCE : "http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets"
     
 ## Roadmap
-
+++++++++++++ A STAR IS APPRECIATED++++++++++++++++++
 Before we jump right into programming, we should lay out a brief guide to keep us on track. The following steps form the basis for any machine learning workflow once we have a problem and model in mind:
 
     1.State the question and determine required data
@@ -50,6 +50,7 @@ Before we jump right into programming, we should lay out a brief guide to keep u
     8.Compare predictions to the known test set targets and calculate performance metrics
     9.If performance is not satisfactory, adjust the model, acquire more data, or try a different modeling technique
     10.Interpret model and report results visually and numerically
+    ////THESE ARE THE STPS I FOLLOW
     
 
 
