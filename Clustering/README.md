@@ -23,8 +23,7 @@
     This algorithm must make some assumptions which constitute the similarity of
     points and each assumption make different and equally valid clusters.
 
-Clustering Methods :
-    
+
 ## What are the Clustering projects included in this repositry?
 
 ### 1.Logistic Regression Classification 
