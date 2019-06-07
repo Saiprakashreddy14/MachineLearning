@@ -3,7 +3,7 @@
 	 CLASSIFICATION  is a Supervised Machine Learning technique for determining 
      the class which the dependent variable belongs to based on the one or more
      independent variables.
-     Classification is used for predicting discrete responses.
+     Classification is used for predicting discrete responses .
     
 ## What are the Classification projects included in this repositry?
 
