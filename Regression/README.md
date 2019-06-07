@@ -6,7 +6,7 @@ Regression analysis is a reliable method of identifying which variables have imp
 In order to understand regression analysis fully, it’s essential to comprehend the following terms:
 
     Dependent Variable: This is the main factor that you’re trying to understand or predict. 
-    Independent Variables: These are the factors that you hypothesize have an impact on your dependent variable.
+    Independent Variables: These are the factors that you hypothesize have an impact on your dependent variable .
     
     
 ## What are the regression projects included in this repositry?
